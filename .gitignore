@@ -30,4 +30,5 @@ capybara-*.html
 /spec/tmp/*
 **.orig
 rerun.txt
+pickle-email-*.html
 >>>>>>> 6893a6a5d9ae7cbb66a49bc8e358318e913c972c
